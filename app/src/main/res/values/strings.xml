@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trackingapp</string>
+
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="title_activity_tracking">Map</string>
+</resources>
